@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-from sqlalchemy import func, and_
+from sqlalchemy import func
 from typing import Optional, Dict
 from datetime import datetime
 import json

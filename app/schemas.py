@@ -1,5 +1,5 @@
 from pydantic import BaseModel, validator, Field
-from typing import Union, Optional, Dict, Any
+from typing import  Optional, Dict, Any
 from datetime import datetime
 
 class ViewPayload(BaseModel):
