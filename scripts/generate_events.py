@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# I generated this code with the help of AI.
 """
 Sample data generator for the analytics service.
 Generates realistic events for testing the API endpoints.
