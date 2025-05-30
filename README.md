@@ -19,13 +19,14 @@ cd web-analytics-service
 # Create virtual environment
 uv venv
 
+# Activate virtual environment
+.venv/bin/activate
 
 # Install Packages
 
 uv sync
 
-# Activate virtual environment
-.venv/bin/activate
+
 ```
 
 ### 3. Generate Sample Data
