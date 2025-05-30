@@ -23,10 +23,7 @@ uv venv
 .venv/bin/activate
 
 # Install Packages
-
 uv sync
-
-
 ```
 
 ### 3. Generate Sample Data
@@ -178,6 +175,11 @@ Track user geographic location data.
 ## 📈 Sample Data
 
 The `generate_events.py` script creates 3,000 realistic sample events for testing and development:
+
+```bash
+python scripts/generate_events.py    
+
+```
 
 
 ## 🏗️ Project Structure
